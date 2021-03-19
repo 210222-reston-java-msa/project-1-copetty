@@ -84,8 +84,8 @@ function updateUser(){
          username : uName
      };
  
-     let childDiv = document.getElementById('warningText');
-             childDiv.textContent = "Updated!!"
+    //  let childDiv = document.getElementById('warningText');
+    //          childDiv.textContent = "Updated!!"
      console.log(updateTemplate);
      let xhr = new XMLHttpRequest();
  

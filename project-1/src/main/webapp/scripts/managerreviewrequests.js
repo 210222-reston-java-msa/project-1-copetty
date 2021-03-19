@@ -135,12 +135,15 @@ function appReq(clicked_id) {
             // console.log(currentUser);
             
             
-            
+        //         var frm = document.getElementsByName("requestAmount")[0];
+        //    frm.submit();
+        //    frm.reset();
+        //    return false;
            
          //  console.log(sessionStorage.getItem('currentUser'));
            
 
-          // window.location = "http://localhost:8080/project-1/employeeSendRequest.html";
+         // window.location = "http://localhost:8080/project-1/managerreviewrequest.html";
 
             
             
@@ -194,7 +197,10 @@ function disReq(otherClicked_id) {
                 // console.log(currentUser);
                 
                 
-                
+        //             var frm = document.getElementsByName("requestAmount")[0];
+        //    frm.submit();
+        //    frm.reset();
+        //    return false;
                
              //  console.log(sessionStorage.getItem('currentUser'));
                

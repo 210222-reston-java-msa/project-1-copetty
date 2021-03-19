@@ -15,10 +15,10 @@ public class Test {
 
 	public static void main(String[] args) {
 
-//		Employee some = new Employee("ruger", "ruger123", "Ruger", "Cox", "479-331-3452", "rug@example.com",
-//				"11 somewhere", "XXX-XX-1324", 10240, false);
-//
-//		es.insert(some);
+		Employee some = new Employee("rich", "rich123", "Rich", "Band", "125-112-2479", "rich@example.com",
+				"931 dime dr", "XXX-XX-0968", 27007, true);
+
+		es.insert(some);
 //		System.out.println(es.returnAllEmployee());
 		
 		//System.out.println(es.confirmLogin("coop", "coop123"));
