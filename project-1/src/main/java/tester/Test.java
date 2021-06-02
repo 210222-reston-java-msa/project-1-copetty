@@ -15,8 +15,8 @@ public class Test {
 
 	public static void main(String[] args) {
 
-		Employee some = new Employee("rich", "rich123", "Rich", "Band", "125-112-2479", "rich@example.com",
-				"931 dime dr", "XXX-XX-0968", 27007, true);
+		Employee some = new Employee("bill", "bill123", "Bill", "Bob", "315-605-2609", "bill@example.com",
+				"940 dime dr", "XXX-XX-9252", 22000, false);
 
 		es.insert(some);
 //		System.out.println(es.returnAllEmployee());
